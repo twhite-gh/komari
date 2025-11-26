@@ -5,6 +5,7 @@ import (
 
 	"github.com/komari-monitor/komari/cmd"
 	"github.com/komari-monitor/komari/utils"
+	"github.com/gin-gonic/gin"
 )
 
 func main() {
